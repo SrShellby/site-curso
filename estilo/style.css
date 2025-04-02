@@ -178,19 +178,6 @@ a{
     border-radius: 5px;
 }
 
-#filho2{
-    background-color: transparent;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-#filho2 img {
-    margin-left: 30%;
-    border-radius: 5px;
-    height: 400px; /* Define uma altura fixa */
-    width: auto;   /* Mantém a largura proporcional */
-}
 footer{
     background-color: #181c24;
     color: white;
