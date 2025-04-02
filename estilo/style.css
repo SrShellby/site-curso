@@ -178,6 +178,16 @@ a{
     border-radius: 5px;
 }
 
+
+section{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.relacionados{
+    margin-top: 50px;
+    color: red;
+}
 footer{
     background-color: #181c24;
     color: white;
@@ -204,5 +214,7 @@ footer a:hover{
     text-decoration: underline;
     color:#254885
 }
-
+.redd a{
+    font-size: 10px;
+}
 
