@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    margin-top: 10%;
+    background-image: linear-gradient(to right, #222733, #112c5c);
+    color: white;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+main{
+    text-align: center;
+}
+h1{
+    text-shadow: 2px 0px 7px black;
+}
+strong{
+    color: black;
+    font-weight: bold;
+}
+abbr{
+    color: rgb(12, 12, 12);
+}
+
+main a{
+    color: white;
+    text-shadow: 2px 2px 2px black;
+    text-decoration: none;
+}
